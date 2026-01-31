@@ -1,0 +1,11 @@
+{
+  "name": "boardmate-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for BoardMate listing app",  "scripts": {
+    "serve": "npx http-server . -p 3000"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.0",
+    "leaflet": "^1.9.4"
+  }
+}
